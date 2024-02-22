@@ -1,4 +1,4 @@
-Angry Professor
+Angry Professor, 
 This repository contains a Python solution for the "Angry Professor" problem from HackerRank that i solved it.
 
 Problem Description
